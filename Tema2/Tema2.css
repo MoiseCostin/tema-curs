@@ -1,0 +1,96 @@
+.container{
+  justify-content: center;
+  padding-left: 10px;
+  text-align: left;
+}
+img{
+  float: left;
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+}
+.imgText{
+  display: inline-block;
+  vertical-align:top;
+  width: 500px;
+}
+
+.TextPrezentare{
+    display: flex;
+    width: 500px;
+    text-align:start;
+}
+#imag1 {
+    padding-top: 2px;
+    float: inline-start;
+    width: 20px;
+    height: 20px;
+}
+.personalDetailsImage{
+    display: inline;
+    vertical-align: top;
+    width: 500px;
+    align-items: baseline;
+}
+
+h1{
+  color: brown;
+}
+.PD{
+  color: brown;
+  background-color: lightgrey;
+  width: 650px;
+}
+#imag2{
+    padding-top: 2px;
+    float: inline-start;
+    width: 20px;
+    height: 20px;
+}
+.workExperienceImage{
+    display: inline;
+    vertical-align: top;
+    width: 500px;
+    align-items: baseline;
+
+}
+.WorkE {
+  color: brown;
+  background-color: lightgrey;
+  width: 650px;
+}
+#imag3{
+    padding-top: 2px;
+    float: inline-start;
+    width: 20px;
+    height: 20px;}
+.EAQ{
+    display: inline;
+    vertical-align: top;
+    width: 500px;
+    align-items: baseline;
+}
+.EAndQ {
+  color: brown;
+  background-color: lightgrey;
+  width: 650px;
+}
+
+#FirstWorkExperience{
+    font-weight: 600;
+}
+#WebsiteA{
+    font-weight: 600;
+}
+#OnlineM{
+    font-weight: 600;   
+}
+#ComputerScience{
+    font-weight: 600;
+}
+#BtecLevel{
+font-weight: 600;
+}
+.PD h2:hover{
+    font-size: xx-large;
+}

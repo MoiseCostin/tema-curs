@@ -1,0 +1,32 @@
+a {
+    color: darkgray;
+    font-size: 30px;
+    text-decoration:none;
+    font-weight: normal;
+}
+.container {
+    width: 80%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+.item {
+    width: 400px;
+    height: 300px;
+    display: flex;
+    margin: 10px;
+    text-align:center;
+    justify-content:center;
+    align-items: center;
+}
+
+.item :hover{
+    color: black;
+    background-color: aqua;
+    width:400px;
+    height: 300px;
+}
