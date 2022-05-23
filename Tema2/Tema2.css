@@ -91,6 +91,9 @@ h1{
 #BtecLevel{
 font-weight: 600;
 }
-.PD h2:hover{
+ul {
+    align-content: flex-start
+}
+h2:hover{
     font-size: xx-large;
 }
